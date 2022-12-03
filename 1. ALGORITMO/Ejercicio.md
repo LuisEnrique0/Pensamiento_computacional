@@ -24,4 +24,9 @@ Calcular edad
 
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
-    TU RESPUESTA AQUI
+Porcentaje de aumento
+    1. Solicitar el precio del producto menor.
+    2. Solicitar el precio del producto mayor.
+    3. 
+    
+    

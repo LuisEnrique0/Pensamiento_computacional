@@ -1,6 +1,5 @@
 ### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-Vestirse
     1. Sacar del ropero camisa, pantaloes, ropa interior, clacetines.
     2. Quitarse la pijama. 
     3. Vestir ropa interior.
@@ -13,8 +12,9 @@ Vestirse
 
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
-Calcular edad
-    1. Solicitar año de nacimiento de la persona.
+
+    1. Inicio.
+    2. Solicitar año de nacimiento de la persona.
     2. Restar del año actual el año de nacimiento de la persona.
     3. Presentar resultado.
     4. Fin.
@@ -24,7 +24,7 @@ Calcular edad
 
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
-Porcentaje de aumento
+
     1. Solicitar el precio del producto menor.
     2. Solicitar el precio del producto mayor.
     

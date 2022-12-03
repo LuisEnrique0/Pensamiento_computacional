@@ -27,6 +27,6 @@ Calcular edad
 Porcentaje de aumento
     1. Solicitar el precio del producto menor.
     2. Solicitar el precio del producto mayor.
-    3. 
+    
     
     

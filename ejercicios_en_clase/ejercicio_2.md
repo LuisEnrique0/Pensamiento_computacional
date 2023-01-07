@@ -4,17 +4,20 @@
 
 # Pseudocodigo
 
-    Algoritmo Mayoriaedad
-      edad <- 0
-      Escribir 'Ingresa tu edad'
-      Leer edad
-      Si edad>0 Y edad<120 Entonces
-        Si edad>=18 Entonces
-          Escribir 'Eres mayor de edad'
-        SiNo
-          Escribir 'Eres menor de edad'
-        FinSi
-      SiNo
-        Mostrar "Error en la edad"
-      Fin Si
-    FinAlgoritmo
+        Algoritmo Mayoriaedad
+            edad <- 0
+            Repetir
+                Escribir 'Ingresa tu edad'
+                Leer edad
+                Si edad>0 Y edad<120 Entonces
+                    Si edad>=18 Entonces
+                        Escribir 'Eres mayor de edad'
+                    SiNo
+                        Escribir 'Eres menor de edad'
+                    FinSi
+                SiNo
+                    Mostrar "Error en la edad"
+                Fin Si
+            Hasta Que edad>0 Y edad<120
+        FinAlgoritmo
+
